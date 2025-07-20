@@ -1,4 +1,4 @@
-package com.eld_project.codingBat;
+package com.eld_project.coding_bat;
 
 import java.util.List;
 import java.util.stream.Collectors;

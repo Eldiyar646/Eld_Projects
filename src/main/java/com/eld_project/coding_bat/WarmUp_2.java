@@ -1,4 +1,4 @@
-package com.eld_project.codingBat;
+package com.eld_project.coding_bat;
 
 public class WarmUp_2 {
     public static void main(String[] args) {

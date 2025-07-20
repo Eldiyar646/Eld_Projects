@@ -1,4 +1,4 @@
-package com.eld_project.codingBat;
+package com.eld_project.coding_bat;
 
 import java.util.HashMap;
 import java.util.Map;
